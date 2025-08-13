@@ -3,7 +3,7 @@
 
 
 # 💫 About Me:
-I am currently learning MERN Stack Development.<br>
+I am currently a MERN Stack Development Intern at EncoderBytes Pvt Ltd (KP IT Park).<br>
 I want to collaborate on Real Worls Web Projects. <br>
 I am working on Enhancing my JavaScript Programming to Improve Logic Building. <br>
 I am eager to further enhance my knowlwdge in Java Software Development.
